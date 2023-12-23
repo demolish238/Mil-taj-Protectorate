@@ -205,11 +205,15 @@ mission "Entering Mil'taj Capital"
 				`	No way am I trusting hostile aliens with access to information about humanity, block all hails and prepare for combat, maybe it's hopeless but I’m not risking humanity because of my own actions, I’ll go down fighting!`
 					goto pointless
 			label pointless
-			`	Your ship gives all it can for some time, but the unidentifiable flagship and the endless stream of reinforcements eventually overwhelm you, a fighter till the end.`
-				explode
+			action
+				"reputation: Mil'taj" = -1000
+				"reputation: Mil'taj Subjects" = -1000
+			`	You hope that your engineers can repair the broken jumpdrive, because the capital ship aiming for you is clearly not going to give you much time.`
+				decline
 			label diplo
 			`	A few tense minutes pass as your systems record numerous different downloads of information, all the while the nearby Mil'tah vessals seem to simply be stationed in defensive formations, waiting it seems. As you glance at the logs you see most downloads seem to be technical manuals and dictionaries.`
 			`	Then suddenly a new hail comes through and a robotic voice states, "Human captain, land on port bay 3C in Zor'Cal spire, coordinates being transferred." and as the voice stated, a set of coordinates appear on your display indicating the largest city on the planet below. No point leaving them waiting.`
+				decline
 
 mission "A Meeting with the Mil'taj"
 	invisible
@@ -753,7 +757,7 @@ mission "Mil Prisoner Exchange 1"
 			label madness
 			action
 				fail
-				"reputation: Mil'taj" = 1000
+				"reputation: Mil'taj" = -1000
 				"reputation: Mil'taj Subjects" = -1000
 				"reputation: Quarg" -= 1000
 				"reputation: Quarg (Hai)" -= 1000
