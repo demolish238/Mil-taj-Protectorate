@@ -208,7 +208,7 @@ mission "Entering Mil'taj Capital"
 			action
 				"reputation: Mil'taj" = -1000
 				"reputation: Mil'taj Subjects" = -1000
-			`	You hope that your engineers can repair the broken jumpdrive, because the capital ship aiming for you is clearly not going to give you much time.`
+			`	You hope that your engineers can perform a miracle and figure out how to repair the broken jumpdrive, because the capital ship aiming for you is clearly not going to give you much time to try.`
 				decline
 			label diplo
 			`	A few tense minutes pass as your systems record numerous different downloads of information, all the while the nearby Mil'tah vessals seem to simply be stationed in defensive formations, waiting it seems. As you glance at the logs you see most downloads seem to be technical manuals and dictionaries.`
