@@ -10,8 +10,6 @@ It is recommended to avoid the Mil'taj storyline until you can at least defeat a
 ATM you can choose to either align yourself with the Mil'taj against the Quarg, or make them an enemy. I do not plan to ever have a Quarg side to the campaign, they just want you to piss off.
 
 
-This plugin contains the Mil'taj race placed in the right arm of the galaxy, they can be found by exploration or by doing the Remnant missions.
-
 Reccomended Plugins:
 
 https://github.com/1010todd/Beyond-the-Sky (Beyond the Sky) (Makes the Quarg actually scary as a threat and makes the higher tier Mil'taj ships make sense in comparison)
