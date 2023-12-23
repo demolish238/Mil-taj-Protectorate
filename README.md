@@ -1,11 +1,13 @@
 # Mil'taj Protectorate
 Hi I am the original author of the Amalgamation plugin, while I have gotten back into Endless Sky recently my ideas of polish have changed greatly over these 4 years.
 
-I decided that while I wasn't satisfied with Amalgamation as a whole, many of the outfits from plugins like Shields up were still interesting to me, and something I wanted in the game all these years later.
+I decided that while I wasn't satisfied with Amalgamation as a whole, but a race of aliens from the plugin Shields up were still interesting to me, and something I wanted in the game all these years later.
 
-So rather than uploading a massive plugin that turns away many people by its sheer size again, I would upload this, a small quality of life plugin that adds many of the smaller outfits I personally believe make building ships more fun overall.
+This is my attempt to morph the Mil'taj into their own fully functional developed race, with a simple opening mission chain and plenty of lore.
 
-I am also working on an independent plugin for the Shields Up 'Mil'taj' race, since that was where I put the most effort and had the most interest when making Amalgamation back in the day.
+It is recomended to avoid the Mil'taj storyline until you can at least defeat a Wardragon, otherwise you will have a bad time.
+
+ATM you can choose to either align yourself with the Mil'taj against the Quarg, or make them an enemy. I do not plan to ever have a Quarg side to the campaign, they just want you to piss off.
 
 
 This plugin contains the Mil'taj race placed in the right arm of the galaxy, they can be found by exploration or by doing the Remnant missions.
