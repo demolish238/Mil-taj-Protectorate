@@ -5,7 +5,7 @@ I decided that while I wasn't satisfied with Amalgamation as a whole, but a race
 
 This is my attempt to morph the Mil'taj into their own fully functional developed race, with a simple opening mission chain and plenty of lore.
 
-It is recomended to avoid the Mil'taj storyline until you can at least defeat a Wardragon, otherwise you will have a bad time.
+It is recommended to avoid the Mil'taj storyline until you can at least defeat a Wardragon, otherwise you will have a bad time.
 
 ATM you can choose to either align yourself with the Mil'taj against the Quarg, or make them an enemy. I do not plan to ever have a Quarg side to the campaign, they just want you to piss off.
 
