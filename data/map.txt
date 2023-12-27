@@ -50,7 +50,7 @@ system Bera
 			period 29.859
 
 system Deba
-	pos 1163.467 -235.515
+	pos 1135.023 -223.96
 	government Quarg
 	arrival 2400
 	habitable 425.92
@@ -171,7 +171,7 @@ system Flar
 			period 41.158
 
 system Gami
-	pos 871.923 -177.624
+	pos 869.849 -161.624
 	government Quarg
 	arrival 2600
 	habitable 1715
@@ -275,7 +275,7 @@ system "Mil'taj Boh"
 		sprite planet/gas16
 		distance 1317.67
 		period 395.514
-		object  "Mil'taj Buh"
+		object "Mil'taj Buh"
 			sprite planet/dust5
 			distance 200
 			period 14.888
@@ -285,7 +285,7 @@ system "Mil'taj Boh"
 		period 738.913
 
 system "Mil'taj Bon"
-	pos 1141.392 -94.203
+	pos 1141.392 -93.61
 	government Mil'taj
 	arrival 3900
 	habitable 320
@@ -1113,7 +1113,7 @@ system "Mil'taj Moh"
 		period 1047.55
 
 system "Mil'taj Noh"
-	pos 1237.598 101.258
+	pos 1237.598 95.332
 	government Mil'taj
 	arrival 2100
 	habitable 2795
@@ -1413,7 +1413,7 @@ system "Mil'taj Pon"
 			period 22.02
 
 system "Mil'taj Roh"
-	pos 1308.013 67.706
+	pos 1293.791 67.558
 	government Mil'taj
 	arrival 1800
 	habitable 625
@@ -1538,7 +1538,7 @@ system "Mil'taj Soh"
 			period 46.699
 
 system "Mil'taj Toh"
-	pos 1234.834 13.893
+	pos 1241.352 7.819
 	government Mil'taj
 	arrival 1500
 	habitable 625
@@ -1641,7 +1641,7 @@ system "Mil'taj Ton"
 		period 3889.63
 
 system "Mil'taj Voh"
-	pos 1155.949 -11.059
+	pos 1163.06 -6.318
 	government Mil'taj
 	arrival 1900
 	habitable 1080
@@ -1956,7 +1956,7 @@ system "Mil'taj Yoh"
 			period 16.585
 
 system "Mil'taj Zoh"
-	pos 1160.367 56.974
+	pos 1172.811 46.604
 	government Mil'taj
 	arrival 2800
 	habitable 625
@@ -2253,7 +2253,7 @@ system Yarg
 			period 14.231
 
 system "Zeta Nurphae"
-	pos 1245.349 -185.838
+	pos 1220.163 -181.394
 	government Quarg
 	arrival 2800
 	habitable 1505.92

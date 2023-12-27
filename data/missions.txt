@@ -316,7 +316,7 @@ mission "Mil'taj Job Offers"
 
 event "mil'taj capital untrapped"
 	system "Mil'taj Toh"
-		pos 1234.834 13.893
+		pos 1241.352 7.819
 		government Mil'taj
 		arrival 1500
 		habitable 625
