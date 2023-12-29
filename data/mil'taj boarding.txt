@@ -15,7 +15,7 @@ mission "Boarding Mil'taj First Goliath"
 					goto retreat
 				`	Send in the next group, I am getting this ship!`
 			branch terror
-				require "Terror Mech"
+				has "outfit (flagship installed): Terror Mech"
 			`	The second squad only gets to the bulkhead before plasma engulfs them. Your ships internal cameras show the chaos in crisp detail. A massive floating automaton surges into the docking port, killing all in its path with terrifying efficiency.`
 			scene "scene/goliath enters"
 			`	None of your weapons even scratch it, allowing it cut a swath through your ship while you struggle to figure out how to handle this.`
