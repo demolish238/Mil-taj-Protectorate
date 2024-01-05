@@ -447,7 +447,6 @@ mission "Rogue Avendri Elimination 1"
 			`	It goes without saying the Mil'taj will be pretty angry if you do that.`
 				accept
 			label "quarg hate"
-			action
 			`	You receive a confirmation ping and a reminder that you likely only have two weeks before the rebels move into hiding.`
 				accept
 			label decline
