@@ -281,9 +281,9 @@ outfit "Mil'taj Shatterer Turret"
 		"reload" 4
 		"firing energy" 77
 		"firing heat" 55
-		"shield damage" 155
-		"hull damage" 44
-	description "Designed for shattering the indomidable shields of their Quarg enemies, the Shatterer Turret is one of the Mil'taj's greatest creations behind their incredible power generators."
+		"shield damage" 135
+		"hull damage" 38
+	description "Designed for shattering the indomidable shields of their Quarg enemies, the Shatterer Turret is considered one of the Mil'taj's greatest creations after the purge."
 
 outfit "Mil'taj Cryogenic Cannon"
 	category "Guns"
@@ -407,8 +407,8 @@ outfit "Goliath"
 	unplunderable 1
 	"required crew" 3
 	"energy generation" -0.6
-	"capture attack" 360
-	"capture defense" 180
+	"capture attack" 180
+	"capture defense" 360
 	description "The pinacle of boarding tech, this war machine is capable of single handedly slaughtering an entire ships crew in very little time, although the downside is that it requires large amounts of power and maintenance even when it's not in use."
 
 outfit "Class-1 Atomic Thruster"

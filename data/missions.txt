@@ -106,6 +106,8 @@ mission "Pug in Mil'taj Space"
 		conversation
 			branch wander
 				has "Pug in Wanderer Space: offered"
+			branch wander
+				has "Wanderers Invaded 3C: offered"
 			`This world is populated by the Pug, the same enigmatic species that recently invaded human space - and left without giving you any clear answers about why they did so. You can see that unlike before, these ones look slow and depressive, especially compared to the ones you experienced before. Do you want to try to talk to one of them?`
 			choice
 				`	(Yes.)`
